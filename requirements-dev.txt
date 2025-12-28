@@ -1,5 +1,5 @@
 -r ./requirements.txt
-pytest==7.4.0
+pytest==9.0.2
 pytest_homeassistant_custom_component==0.13.46
 aiohttp_cors==0.7.0
 aiodiscover==1.4.16
